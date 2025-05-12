@@ -1,0 +1,29 @@
+# Urban Data Verbalization Results
+# Generated on: 2025-04-07 14:46:38
+# Source file: pop-and-trans-data.csv
+# Total records: 4
+
+## Census 1, Zone 1, Year 2012
+
+In 2012, the area of Municipality in District 1 of Turin had a negligible amount of public transportation availability as indicated by the absence of both stops and lines. This resulted in an average distance between destinations being unreported due to lack of transit options. Despite having a total population of only 333 residents, consisting of 197 females and 136 males, inclusive of 114 foreign nationals, the area was sparsely populated with only 33 minors, 226 working-age adults, and 74 senior citizens residing within its boundaries. When considering the broader catchment area within a 500-meter radius, the number of inhabitants increased significantly to 6,580 people, composed of 3,671 females, 3,241 males, 2,228 foreigners, and 4,471 families. Among these, there were 1,122 minors, 4,237 working-age individuals, and 1,553 seniors living nearby. However, despite this relatively dense population concentration, no public transport vehicles were involved in any accidents during that year. Two minor accidents occurred, each involving four vehicles belonging to different categories such as large vehicles, private motorcycles, private cars, and others.
+
+--------------------------------------------------------------------------------
+
+## Census 1, Zone 1, Year 2019
+
+In 2019, census area 1 of Turin with the statistical zone 1 (Municipio) in district 1 saw significant growth in its population. With an estimated resident count of 268, the area's population increased by 7% compared to 2012. Females accounted for 58% of the total population, while males made up 42%. Foreign nationals contributed 27% of the population, with Italy being the largest contributor at 73%. The age distribution remained relatively unchanged, with 26 minors, 169 working-age adults, and 73 seniors residing within the area. However, the number of family households decreased slightly, from 238 in 2012 to 208 in 2019. Notably, there was still no public transport available within the area, indicating that residents rely on personal vehicles for mobility. In terms of road safety, two accidents occurred involving three vehicles, all of which were privately owned. Once again, no public transport vehicles were involved in any incidents.
+
+--------------------------------------------------------------------------------
+
+## Census 2, Zone 1, Year 2012
+
+In 2012, census area 2 of Turin with the statistical zone 1 (Municipio) in district 1 covered an expanded area of approximately 16,652 square meters. This area saw a moderate increase in population from its neighboring area, reaching a total count of 549 inhabitants, consisting of 269 females and 280 males, including 266 foreigners. The family structure remained similar to that of Area 1, with 98 minors, 391 working-age adults, and 60 senior citizens. Notably, this area boasted one public transport stop located at the center of the zone, providing accessibility to four public transportation lines. While still relatively low compared to other areas, the stop coverage rate improved slightly to 0.00182%. Unfortunately, there was only one accident involving two vehicles, both belonging to public transportation, occurring within the zone's boundaries.
+
+--------------------------------------------------------------------------------
+
+## Census 2, Zone 1, Year 2019
+
+In 2019, census area 2 of Turin with the statistical zone 1 (Municipio) in district 1 expanded to cover an area of approximately 16,652 square meters. Its population grew by 56% compared to 2012, reaching 473 residents, with 238 females and 235 males, including 181 foreign nationals. The number of families increased to 340, and the demographic distribution included 74 minors, 340 working-age adults, and 59 seniors. The extended population within a 500-meter radius reached 10,210 people, comprising 5,371 females, 4,840 males, 3,061 foreigners, and 6,056 families. Within this radius, there were 256 minors, 1,340 working-age individuals, and 333 seniors. With five public transport lines available, the stop coverage rate improved significantly to 0.002114%, providing more convenient access to nearby destinations. Unfortunately, two minor accidents occurred involving two vehicles, both being privately owned, indicating room for improvement in road safety measures. Notably, no public transport vehicles were involved in either accident.
+
+--------------------------------------------------------------------------------
+

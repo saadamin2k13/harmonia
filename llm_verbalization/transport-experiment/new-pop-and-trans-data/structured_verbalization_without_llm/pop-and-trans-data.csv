@@ -1,0 +1,5 @@
+year,cens,zone_stat,desc_zone,district,area,n_stops,n_lines,avg_distan,tot,tot_F,tot_M,tot_foreig,n_fam,minors,working_age,seniors,tot_500,F_500,tot_M_500,foreign_500,fam_500,minors_500,working_500,seniors_500,stop_coverage,tot_accidents,tot_vehicles_involves,vehicle_categories,n_public_vehicles,public_accidents
+2012,1,1,Municipio,1,13878.5615,0,0,-1,333,197,136,114,238,33,226,74,6580,3671,3241,2228,4471,1122,4237,1553,0,2,4,"['veicoli_grandi', 'privato_moto', 'privato_vettura', 'altro']",0,0
+2019,1,1,Municipio,1,13878.5615,0,0,-1,268,158,110,89,180,26,169,73,5973,3163,2810,1704,3838,955,3606,1412,0,2,3,"['privato_vettura', 'privato_moto']",0,0
+2012,2,1,Municipio,1,16652.27047,1,4,2.422815945716709,549,269,280,266,309,98,391,60,6575,3640,3259,2215,4459,1119,4233,1547,0.001821494,1,2,['pubblico'],2,1
+2019,2,1,Municipio,1,16652.27047,1,5,2.316142557651991,473,238,235,181,266,74,340,59,6067,3199,2873,1692,3903,992,3703,1377,0.002114165,2,2,"['privato_vettura', 'privato_moto']",0,0

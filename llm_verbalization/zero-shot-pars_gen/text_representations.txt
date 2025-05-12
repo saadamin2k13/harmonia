@@ -1,0 +1,300 @@
+DRS: event.v.01 Participant +1 room.n.01
+Generated Text: The participant entered the room.
+
+DRS: event.v.01 Participant +1 female.n.02 Name "Liz Mohn"
+Generated Text: Liz Mohn joined the event.
+
+DRS: person.n.01 EQU hearer look_out.v.01 Experiencer -1
+Generated Text: ...
+
+DRS: event.v.01 Participant +1 female.n.02 Name "Anne Will"
+Generated Text: Anne Will
+
+DRS: person.n.01 Name ? die.v.01 Patient -1 Time +1 time.n.08 TPR now
+Generated Text: ? Who is the patient now?
+
+DRS: time.n.08 EQU now entity.n.01 far.a.01 Time -2 Value + AttributeOf -1
+Generated Text: Now.
+
+DRS: event.v.01 Participant +1 female.n.02 Name "Gabi Keast"
+Generated Text: Gabi Keast
+
+DRS: person.n.01 Name ? be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02
+Generated Text: ?
+
+DRS: event.v.01 Participant +1 male.n.02 Name "Paul Keast"
+Generated Text: Paul Keast
+
+DRS: event.v.01 Participant +1 party.n.01 Name "Yedinstvo"
+Generated Text: ?
+
+DRS: event.v.01 Participant +1 male.n.02 Name "John Irving"
+Generated Text: John Irving
+
+DRS: person.n.01 EQU hearer forgive.v.01 Agent -1 Theme +1 person.n.01 EQU speaker
+Generated Text: Please forgive me, I am the speaker.
+
+DRS: time.n.08 EQU now person.n.01 EQU speaker hire.v.01 Time -2 Theme -1 Time +1 time.n.08 TPR now
+Generated Text: Now.
+
+DRS: male.n.02 Name "Tom" yell.v.01 Agent -1 Time +1 time.n.08 TPR now
+Generated Text: Tom yelled at me.
+
+DRS: event.v.01 Participant +1 male.n.02 Name "JOHN IRVING"
+Generated Text: John Irving
+
+DRS: person.n.01 Sub speaker buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now cd.n.04
+Generated Text: The speaker will buy the book now.
+
+DRS: person.n.01 EQU speaker time.n.08 TSU now help.v.01 Agent -2 Time -1
+Generated Text: The speaker now needs help from the agent.
+
+DRS: event.v.01 Participant +1 female.n.02 Name "Iris Radisch"
+Generated Text: Iris Radisch
+
+DRS: time.n.08 EQU now male.n.02 Name "Tom" busy.a.01 Time -2 AttributeOf -1
+Generated Text: Now, Tom is busy.
+
+DRS: female.n.02 Name "Mary" yodel.v.01 Agent -1 Time +1 time.n.08 EQU now
+Generated Text: Mary yodels.
+
+DRS: be.v.01 Theme +1 Co-Theme +2 entity.n.01 hype.n.01
+Generated Text: The hype around the new product launch was unprecedented.
+
+DRS: time.n.08 TPR now male.n.02 Name "Tom" try.v.01 Time -2 Agent -1
+Generated Text: Now Tom is trying to make a move.
+
+DRS: person.n.01 EQU hearer plant.v.01 Agent -1 Theme +1 tree.n.01
+Generated Text: ?
+
+DRS: female.n.02 time.n.08 EQU now lazy.a.02 AttributeOf -2 Time -1
+Generated Text: Now it's lazy.
+
+DRS: person.n.01 Sub speaker survive.v.01 Theme -1 Time +1 time.n.08 TPR now
+Generated Text: Now, the speaker will survive.
+
+DRS: person.n.01 EQU hearer time.n.08 EQU now nuts.a.01 AttributeOf -2 Time -1
+Generated Text: ...hearer is now listening to a lecture about the importance of nutrition...
+
+DRS: person.n.01 EQU hearer time.n.08 EQU now silly.a.01 AttributeOf -2 Time -1
+Generated Text: Now I am feeling silly.
+
+DRS: person.n.01 EQU speaker like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now male.n.02 Name "Tony"
+Generated Text: Tony is currently speaking.
+
+DRS: NEGATION <1 bee.n.01 NEGATION <1 buzz.v.01 Agent -1
+Generated Text: The bee did not buzz.
+
+DRS: male.n.02 Name "Tom" time.n.08 EQU now groggy.a.01 AttributeOf -2 Time -1
+Generated Text: Tom is currently feeling groggy.
+
+DRS: male.n.02 time.n.08 TSU now wait.v.01 Theme -2 Time -1
+Generated Text: Now it's time to wait.
+
+DRS: time.n.08 TSU now male.n.02 Name "Tom" die.v.01 Time -2 Patient -1
+Generated Text: Tom is dying.
+
+DRS: be.v.01 Theme +1 Co-Theme +2 entity.n.01 person.n.01 Role +1 klutz.n.01
+Generated Text: The klutz.
+
+DRS: male.n.02 dump.v.02 Agent -1 Time +1 Patient +2 time.n.08 TPR now person.n.01 EQU speaker
+Generated Text: The male nurse dumped the patient now.
+
+DRS: event.v.01 Participant +1 death_penalty.n.01
+Generated Text: ?
+
+DRS: event.v.01 Participant +1 male.n.02 Name "Andrew Conway"
+Generated Text: Andrew Conway
+
+DRS: time.n.08 EQU now person.n.01 EQU speaker in_love.a.01 Time -2 Experiencer -1
+Generated Text: Now, I am in love with the speaker.
+
+DRS: person.n.01 Name ? time.n.08 TSU now drive.v.01 Agent -2 Time -1
+Generated Text: ?
+
+DRS: time.n.08 EQU now person.n.01 EQU speaker slip.v.03 Time -2 Theme -1
+Generated Text: Now, the speaker slipped and mentioned something about the past.
+
+DRS: female.n.02 dump.v.02 Agent -1 Time +1 Patient +2 time.n.08 TPR now person.n.01 EQU speaker
+Generated Text: Now, the speaker will dump the patient.
+
+DRS: person.n.01 EQU speaker time.n.08 EQU now want.n.04 Pivot -2 Time -1 Theme +1 pony.n.01
+Generated Text: Now, I want to talk about my favorite pony.
+
+DRS: person.n.01 EQU hearer time.n.08 EQU now bright.a.03 AttributeOf -2 Time -1
+Generated Text: Now I hear.
+
+DRS: person.n.01 EQU hearer time.n.08 EQU now drunk.a.02 Experiencer -2 Time -1
+Generated Text: I am currently experiencing drunkenness.
+
+DRS: time.n.08 EQU now entity.n.01 legal.a.01 Time -2 AttributeOf -1
+Generated Text: Now is the time to legalize marijuana.
+
+DRS: person.n.01 EQU speaker exaggerate.v.01 Agent -1 Time +1 time.n.08 TPR now
+Generated Text: The speaker exaggerated the importance of the topic now.
+
+DRS: person.n.01 Sub speaker time.n.08 EQU now unhappy.a.01 Experiencer -2 Time -1
+Generated Text: The speaker is currently unhappy.
+
+DRS: male.n.02 Name "Tom" time.n.08 EQU now skinny.a.01 Theme -2 Time -1
+Generated Text: Tom is currently enjoying his free time, looking quite skinny and theme-conscious.
+
+DRS: time.n.08 TPR now male.n.02 Name "Tom" fire.v.04 Time -2 Theme -1
+Generated Text: Now, Tom is on fire.
+
+DRS: pack.v.01 suck.v.04 Stimulus -1 Time +1 time.n.08 EQU now
+Generated Text: Now I suck.
+
+DRS: state.a.01 Time +1 EQU ? time.n.08 EQU now dog.n.01 Attribute -2
+Generated Text: Now it is time for the dog to eat.
+
+DRS: time.n.08 EQU now cat.n.01 dream.v.02 Time -2 Experiencer -1
+Generated Text: Now I am dreaming about a cat.
+
+DRS: person.n.01 EQU speaker time.n.08 EQU now so.r.01 hungry.a.01 Experiencer -3 Time -2 Degree -1
+Generated Text: I am currently hungry at 3:45 PM.
+
+DRS: be.v.01 Theme +1 Co-Theme +2 entity.n.01 paella.n.01
+Generated Text: The theme of the party was paella.
+
+DRS: person.n.01 Sub speaker time.n.08 EQU now diet.v.01 Agent -2 Time -1
+Generated Text: Now, the speaker will talk about their diet.
+
+DRS: male.n.02 Name "Ken" know.v.04 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "Tom"
+Generated Text: Ken knows Tom.
+
+DRS: time.n.08 EQU now person.n.01 EQU speaker pregnant.a.01 Time -2 AttributeOf -1
+Generated Text: Now, the speaker is pregnant.
+
+DRS: person.n.01 Name ? help.v.01 Agent -1 Time +1 Beneficiary +2 time.n.08 EQU now female.n.02
+Generated Text: Who can help me now?
+
+DRS: person.n.01 EQU speaker NEGATION <1 POSSIBILITY <1 get_up.v.02 Agent -1 Time +1 time.n.08 EQU now
+Generated Text: The speaker might get up.
+
+DRS: person.n.01 EQU speaker time.n.08 EQU now illiterate.a.01 AttributeOf -2 Time -1
+Generated Text: The speaker is now illiterate.
+
+DRS: time.n.08 EQU now person.n.01 EQU speaker qualified.a.01 Time -2 AttributeOf -1
+Generated Text: Now.
+
+DRS: person.n.01 EQU hearer stop.v.02 PartOf +1 kvetch.v.01 Agent -2
+Generated Text: ?
+
+DRS: person.n.01 EQU speaker time.n.08 TSU now prosper.v.01 Agent -2 Time -1
+Generated Text: The speaker now has the time to prosper.
+
+DRS: be.v.02 Time +1 Theme +2 Co-Theme +4 time.n.08 EQU now entity.n.01 person.n.01 EQU speaker mug.n.04 User -1
+Generated Text: Now, the speaker is holding a mug.
+
+DRS: NEGATION <1 person.n.01 NEGATION <1 leave.v.01 Theme -1 Time +1 time.n.08 TPR now
+Generated Text: I don't think I'll be able to leave now.
+
+DRS: person.n.01 EQU speaker need.v.02 Pivot -1 Time +1 Theme +2 Manner +3 time.n.08 EQU now entity.n.01 asap.r.01
+Generated Text: The speaker needs to pivot the conversation back to the original theme and manner as soon as possible.
+
+DRS: female.n.02 Name "Mary" call.v.03 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now person.n.01 Sub speaker
+Generated Text: Mary called John.
+
+DRS: NEGATION <1 time.n.08 EQU now female.n.02 cute.a.01 Time -2 AttributeOf -1
+Generated Text: ...
+
+DRS: entity.n.01 time.n.08 EQU now old-hat.a.02 AttributeOf -2 Time -1
+Generated Text: Now is the time to put old hats away.
+
+DRS: time.n.08 EQU now tiger.n.02 purr.v.02 Time -2 Agent -1
+Generated Text: Now the tiger is purring.
+
+DRS: person.n.01 EQU hearer face.v.01 Agent -1 Theme +1 music.n.05
+Generated Text: The hearer's face lit up when they heard the music.
+
+DRS: entity.n.01 time.n.08 EQU now obvious.a.01 AttributeOf -2 Time -1
+Generated Text: Now is the obvious time to buy.
+
+DRS: time.n.08 EQU now person.n.01 EQU hearer like.v.03 Time -2 Experiencer -1 Stimulus +1 person.n.01 EQU speaker
+Generated Text: Now, I hear the speaker.
+
+DRS: female.n.02 Name "Lucy" tell.v.02 Agent -1 Time +1 Recipient +2 time.n.08 TPR now female.n.02 Name "Mary"
+Generated Text: Lucy tells Mary about the time now.
+
+DRS: male.n.02 marry.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02 ANA -3
+Generated Text: Please provide the natural language text that corresponds to the given DRS representation.
+
+DRS: male.n.02 marry.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now female.n.02 Name "Ann"
+Generated Text: Please provide the natural language text that corresponds to the given DRS representation.
+
+DRS: person.n.01 EQU speaker see.v.01 Experiencer -1 Time +1 Stimulus +2 Instrument +3 time.n.08 TPR now entity.n.01 tv.n.01
+Generated Text: Now I am watching TV.
+
+DRS: person.n.01 Sub speaker be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now country.n.02 Name "Italy"
+Generated Text: The speaker will be talking about Italy now.
+
+DRS: person.n.01 call.v.03 Agent -1 Time +1 time.n.08 TPR now
+Generated Text: Now, the agent called the person.
+
+DRS: NEGATION <1 person.n.01 NEGATION <1 win.v.01 Agent -1 Time +1 time.n.08 EQU now
+Generated Text: The agent did not win the competition.
+
+DRS: person.n.01 Sub speaker forgive.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now male.n.02
+Generated Text: The male speaker forgave the agent now.
+
+DRS: female.n.02 play.v.07 Agent -1 Time +1 Theme +2 time.n.08 EQU now bach.n.02
+Generated Text: She will play the bachelorette now.
+
+DRS: event.v.01 Participant +2 fucking.a.01 AttributeOf +1 asshole.n.01
+Generated Text: (Please provide a natural language text that corresponds to the given DRS representation)
+
+DRS: person.n.01 EQU speaker time.n.08 EQU now doze_off.v.01 Experiencer -2 Time -1
+Generated Text: The speaker is currently experiencing a state of dozing off.
+
+DRS: male.n.02 Name "Tom" time.n.08 TPR now unarmed.a.01 AttributeOf -2 Time -1
+Generated Text: Tom is now unarmed.
+
+DRS: person.n.01 EQU hearer push.v.02 Agent -1 Theme +1 button.n.07
+Generated Text: ?
+
+DRS: female.n.02 Name "Mary" slap.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now person.n.01 EQU speaker
+Generated Text: Mary slapped the speaker.
+
+DRS: time.n.08 EQU now hexane.n.01 toxic.a.01 Time -2 AttributeOf -1
+Generated Text: ...
+
+DRS: person.n.01 EQU speaker catch.v.08 Agent -1 Time +1 Theme +2 time.n.08 TPR now fish.n.01
+Generated Text: Now the speaker is catching a fish.
+
+DRS: person.n.01 Role +1 soldier.n.01 run.v.01 Theme -2 Time +1 time.n.08 TPR now
+Generated Text: The soldier ran now.
+
+DRS: dog.n.01 stink.v.02 Theme -1 Time +1 time.n.08 EQU now
+Generated Text: The dog stinks now.
+
+DRS: male.n.02 Name "Tom" time.n.08 EQU now brilliant.a.01 AttributeOf -2 Time -1
+Generated Text: Tom is now brilliant.
+
+DRS: POSSIBILITY <1 person.n.01 EQU hearer whistle.v.01 Agent -1 Time +1 time.n.08 EQU now
+Generated Text: The possibility that the hearer will whistle.
+
+DRS: person.n.01 EQU hearer be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 grouch.n.01
+Generated Text: The grouchy hearer is now.
+
+DRS: male.n.02 Name "Tom" time.n.08 EQU now knock.v.02 Agent -2 Time -1
+Generated Text: Tom knocked on the door.
+
+DRS: person.n.01 EQU speaker bite.v.01 Experiencer -1 Time +1 Patient +3 time.n.08 TPR now person.n.01 EQU speaker tongue.n.01 PartOf -1
+Generated Text: Now, the speaker's tongue is moving rapidly.
+
+DRS: person.n.01 EQU speaker NEGATION <1 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 freak.n.01
+Generated Text: The freakish speaker NEGATION <1 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1
+
+DRS: female.n.02 Name "Emily" time.n.08 EQU now cry.v.02 Agent -2 Time -1
+Generated Text: Emily is crying now.
+
+DRS: person.n.01 EQU speaker NECESSITY <1 hurry.v.01 Theme -1
+Generated Text: The speaker must hurry.
+
+DRS: person.n.01 EQU speaker time.n.08 EQU now wet.a.01 AttributeOf -2 Time -1
+Generated Text: The speaker is now talking about a wet topic.
+
+DRS: school.n.03 bore.v.01 Stimulus -1 Time +1 Experiencer +2 time.n.08 EQU now person.n.01 EQU speaker
+Generated Text: The school bore the stimulus at 10 am now.
+
